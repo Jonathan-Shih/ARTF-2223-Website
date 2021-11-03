@@ -1,0 +1,12 @@
+a {
+	font-family: sans-serif;
+	color: grey;
+}
+
+a:hover {
+	color: black;
+}
+
+body {
+	text-align: center;
+}
