@@ -58,33 +58,23 @@ h2 {
 	vertical-align: middle;
 }
 
-@media only screen and (max-width: 400px) {
-	.header {
-		background-color: #3C3C3C;
-		height: 130px;
-	}
-
-	h1 {
-		font-size: 40px;
-		line-height: 50px;
-	}
+@media only screen and (max-width: 1125px) {
 
 	img {
-		width: 311px;
-		height: 233px;
 		display: block;
-		margin: 0 auto;
+		margin: 0 0;
 	}
 
 	.body1, .body2{
+		width: 90%;
 		margin: 0 auto;
 		margin-top: 47px;
-		width: 311px;
-		height: 650px;
+		height: 200%;
+		margin-left: 25%;
 	}
 
 	.body1 p, h2, .body2 p{
-		width: 311px;
+		width: 561px;
 		color: #707070;
 		font-family: futura-pt,sans-serif;
 		font-weight: 400;
@@ -95,10 +85,6 @@ h2 {
 	h2 {
 		font-size: 30px;
 		color: #3C3C3C;
-	}
-
-	.body2 p {
-		width: 311px;
 	}
 
 	.intro-para {
