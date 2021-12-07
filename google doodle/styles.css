@@ -503,7 +503,7 @@ body {
 	}
 	65%  { 
 		opacity: 0;
-		transform: rotate(180deg);
+		transform: rotate(-180deg);
 	}
 
 	80%  { 
@@ -528,7 +528,7 @@ body {
 		transform: rotate(0);
 	}
 	65%  { 
-		transform: rotate(180deg) translateY(125px);
+		transform: rotate(-180deg) translateY(125px);
 		opacity: 1;
 	}
 	80% {
