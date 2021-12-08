@@ -384,7 +384,7 @@ body {
 
 .l1:hover .smoke{
 	animation-name: smoke;
-	animation-duration: 1s;
+	animation-duration: .9s;
 	animation-delay: 1s;
 	animation-timing-function: linear;
 }
