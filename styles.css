@@ -1,7 +1,11 @@
-a {
+h1, a {
 	font-family: sans-serif;
 	color: grey;
 	text-decoration: none;
+}
+
+h1 {
+	color: lightseagreen;
 }
 
 a:hover {
@@ -10,5 +14,6 @@ a:hover {
 }
 
 body {
+	padding-top: 100px;
 	text-align: center;
 }
